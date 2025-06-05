@@ -1,0 +1,47 @@
+{
+    "amount_due": "N/A",
+    "billing_address_recipient": "N/A",
+    "billing_address": "N/A",
+    "currency_code": "\u20ac",
+    "customer": {
+        "address_recipient": "N/A",
+        "address": "N/A",
+        "tax_id": "N/A",
+        "id": "N/A",
+        "name": "N/A"
+    },
+    "due_date": "N/A",
+    "invoice_date": "2019-01-23",
+    "invoice_id": ":",
+    "invoice_total": "1.35",
+    "items": [],
+    "payment_details": {
+        "iban": "N/A",
+        "swift": "N/A"
+    },
+    "payment_term": "N/A",
+    "previous_unpaid_balance": "N/A",
+    "purchase_order": "N/A",
+    "remittance_address_recipient": "N/A",
+    "remittance_address": "N/A",
+    "service_address_recipient": "N/A",
+    "service_address": "N/A",
+    "service_end_date": "N/A",
+    "service_start_date": "N/A",
+    "shipping_address_recipient": "N/A",
+    "shipping_address": "N/A",
+    "sub_total": "N/A",
+    "tax_details": {
+        "amount": "N/A",
+        "rate": "N/A",
+        "name": "N/A"
+    },
+    "total_discount": "N/A",
+    "total_tax": "N/A",
+    "vendor": {
+        "address_recipient": "Brisa - Concess\u00e3o Rodoviaria, S.A. Quinta da Torre da Aguilha Edificio 2785-599",
+        "address": "Brist S\u00e3o Domingos de Rana MCRC Cascais e NIPC 502",
+        "name": "N/A",
+        "tax_id": "N/A"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "amount_due": "N/A",
+    "billing_address_recipient": "N/A",
+    "billing_address": "N/A",
+    "currency_code": "$",
+    "customer": {
+        "address_recipient": "N/A",
+        "address": "N/A",
+        "tax_id": "N/A",
+        "id": "N/A",
+        "name": "N/A"
+    },
+    "due_date": "N/A",
+    "invoice_date": "25/12/2018",
+    "invoice_id": "TD01167104",
+    "invoice_total": "9.00",
+    "items": [
+        {
+            "amount": "9.00",
+            "date": "N/A",
+            "description": "KF MODELLING CLAY KIDDY FISH",
+            "order_quantity": "N/A",
+            "product_code": "N/A",
+            "quantity": "1",
+            "tax_rate": "N/A",
+            "tax": "N/A",
+            "unit_price": "N/A",
+            "unit": "9.000",
+            "cgst_amount": "N/A",
+            "cgst_rate": "N/A",
+            "sgst_amount": "N/A",
+            "sgst_rate": "N/A",
+            "igst_amount": "N/A",
+            "igst_rate": "N/A",
+            "hsn": "N/A",
+            "origin_code": "N/A"
+        }
+    ],
+    "payment_details": {
+        "iban": "N/A",
+        "swift": "N/A"
+    },
+    "payment_term": "N/A",
+    "previous_unpaid_balance": "N/A",
+    "purchase_order": "N/A",
+    "remittance_address_recipient": "N/A",
+    "remittance_address": "N/A",
+    "service_address_recipient": "N/A",
+    "service_address": "N/A",
+    "service_end_date": "N/A",
+    "service_start_date": "N/A",
+    "shipping_address_recipient": "N/A",
+    "shipping_address": "N/A",
+    "sub_total": "N/A",
+    "tax_details": {
+        "amount": "N/A",
+        "rate": "N/A",
+        "name": "N/A"
+    },
+    "total_discount": "N/A",
+    "total_tax": "N/A",
+    "vendor": {
+        "address_recipient": "BOOK TA .K (TAMAN DAYA) SDN BHD",
+        "address": "NO. 53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.",
+        "name": "tan woon yann",
+        "tax_id": "N/A"
+    }
+}

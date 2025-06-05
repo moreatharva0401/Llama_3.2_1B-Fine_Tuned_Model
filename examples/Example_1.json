@@ -1,0 +1,47 @@
+{
+    "amount_due": "N/A",
+    "billing_address_recipient": "000129 0463 VRDI040A 1218445011 FEDERACIO FARMACEUTICA Santiago Pla",
+    "billing_address": "C / Coneixement, 7-13, illa A3.1 Centre de Negocis Gav Park 08850 GAVA SPAIN",
+    "currency_code": "EUR",
+    "customer": {
+        "address_recipient": "N/A",
+        "address": "Centre Park",
+        "tax_id": "N/A",
+        "id": "X000001578",
+        "name": "N/A"
+    },
+    "due_date": "03/02/2016",
+    "invoice_date": "04/01/2016",
+    "invoice_id": "W100043341",
+    "invoice_total": "1.996,50",
+    "items": [],
+    "payment_details": {
+        "iban": "N/A",
+        "swift": "N/A"
+    },
+    "payment_term": "N/A",
+    "previous_unpaid_balance": "N/A",
+    "purchase_order": "N/A",
+    "remittance_address_recipient": "N/A",
+    "remittance_address": "N/A",
+    "service_address_recipient": "N/A",
+    "service_address": "N/A",
+    "service_end_date": "N/A",
+    "service_start_date": "N/A",
+    "shipping_address_recipient": "N/A",
+    "shipping_address": "N/A",
+    "sub_total": "1.650,00",
+    "tax_details": {
+        "amount": "346.50",
+        "rate": "21%",
+        "name": "VAT"
+    },
+    "total_discount": "0,00",
+    "total_tax": "346,50",
+    "vendor": {
+        "address_recipient": "N/A",
+        "address": "N/A",
+        "name": "verizon",
+        "tax_id": "ESF08173395"
+    }
+}
