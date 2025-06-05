@@ -1,4 +1,5 @@
 HEAD
+
 Invoice Data Extraction with Fine-Tuned LLaMA
 
 
@@ -37,8 +38,7 @@ Installation
 
 - Clone this repository:
 ```bash
-git clone https://github.com/<PMayekar18>/invoice-llama
-cd invoice-llama
+git clone https://github.com/moreatharva0401/Llama_3.2_1B-Fine_Tuned_Model.git
 ```
 
 - Create and activate a Python 3.10+ virtual environment:
